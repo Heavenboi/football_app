@@ -9,7 +9,7 @@ class HomeTab extends StatefulWidget {
 
 class _HomeTabState extends State<HomeTab> {
   List<String> images = [
-    "asset/images/pic1.jpg",
+    "asset/images/Premier-League.png",
     "asset/images/pic2.jpg",
     "asset/images/pic3.jpg",
   ];
